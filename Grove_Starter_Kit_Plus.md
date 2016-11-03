@@ -1,9 +1,9 @@
 ---
 title: Grove - Starter Kit Plus
-category: RePhone
+category: Arduino
 bzurl: https://www.seeedstudio.com/Grove-Starter-Kit-Plus-p-1294.html
 oldwikiname: Grove - Starter Kit Plus
-prodimagename: RGB_OLED_MainPicture.jpg
+prodimagename: Grove-Starter_Kit_Plus.jpeg
 surveyurl: https://www.research.net/r/Grove_Starter_Kit_Plus
 sku:  110020000
 ---
